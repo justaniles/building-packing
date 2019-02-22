@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "inlineSourceMap": true,
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "lib": ["esnext"],
+        "target": "es2015",
+        "outDir": "./out",
+        "strict": true
+    },
+    "exclude": ["node_modules"],
+    "include": ["src/**/*"]
+}
